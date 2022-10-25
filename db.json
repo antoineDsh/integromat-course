@@ -1,335 +1,336 @@
-[{
-		"type": "track",
-		"event": "Form Sent",
-		"userId": "carolinegodard@discolive.site",
-		"properties": {
-			"url": "exemple.com/guide-rh",
-			"firstname": "Caroline",
-			"lastname": "Godard"
-		}
-	},
-	{
-		"type": "track",
-		"event": "Form Sent",
-		"userId": "glebrun@jamtogel.org",
-		"properties": {
-			"url": "exemple.com/guide-rh",
-			"firstname": "Giles",
-			"lastname": "Lebrun"
-		}
-	},
-	{
-		"type": "track",
-		"event": "Form Sent",
-		"userId": "carolinegodard@discolive.site",
-		"properties": {
-			"url": "exemple.com/guide-rh",
-			"firstname": "Caroline",
-			"lastname": "Godard"
-		}
-	},
-	{
-		"type": "track",
-		"event": "Form Sent",
-		"userId": "isabelle83@colevillecapital.com",
-		"properties": {
-			"url": "exemple.com/guide-rh",
-			"firstname": "Isabelle",
-			"lastname": "Gregoire"
-		}
-	},
-	{
-		"type": "track",
-		"event": "Form Sent",
-		"userId": "denis57@colevillecapital.com",
-		"properties": {
-			"url": "exemple.com/guide-rh",
-			"firstname": "Denis",
-			"lastname": "Maréchal"
-		}
-	},
-	{
-		"type": "track",
-		"event": "Form Sent",
-		"userId": "guillaume18@colevillecapital.com",
-		"properties": {
-			"url": "exemple.com/guide-rh",
-			"firstname": "Guillaume",
-			"lastname": "Dang"
-		}
-	},
-	{
-		"type": "track",
-		"event": "Form Sent",
-		"userId": "d.marechal@revolut.com",
-		"properties": {
-			"url": "exemple.com/guide-rh",
-			"firstname": "Denis",
-			"lastname": "Maréchal"
-		}
-	},
-	{
-		"type": "track",
-		"event": "Form Sent",
-		"userId": "romain@spendesk.com",
-		"properties": {
-			"url": "exemple.com/guide-rh",
-			"firstname": "Romain",
-			"lastname": "Debrogli"
-		}
-	},
-	{
-		"type": "track",
-		"event": "Form Sent",
-		"userId": "thomas@devoteam.com",
-		"properties": {
-			"url": "exemple.com/guide-rh",
-			"firstname": "Thomas",
-			"lastname": "Trouel"
-		}
-	},
-	{
-		"type": "track",
-		"event": "Form Sent",
-		"userId": "m.aubry@revolugo.com",
-		"properties": {
-			"url": "exemple.com/guide-rh",
-			"firstname": "Martine",
-			"lastname": "Aubry"
-		}
-	},
-	{
-		"type": "track",
-		"event": "Form Sent",
-		"userId": "titouan@gmail.com",
-		"properties": {
-			"url": "exemple.com/demo",
-			"firstname": "Titouan",
-			"lastname": "Machin",
-			"phone": "+33606050424"
-		}
-	},
-	{
-		"type": "track",
-		"event": "Form Sent",
-		"userId": "arthur@qonto.fr",
-		"properties": {
-			"url": "exemple.com/demo",
-			"firstname": "Arthur",
-			"lastname": "Mcdonald",
-			"phone": "+33606784424"
-		}
-	},
-	{
-		"type": "track",
-		"event": "Form Sent",
-		"userId": "guillaume@freelancerespublika.fr",
-		"properties": {
-			"url": "exemple.com/demo",
-			"firstname": "Guillaume",
-			"lastname": "Lapaire",
-			"phone": "+33750050424"
-		}
-	},
-	{
-		"type": "track",
-		"event": "Form Sent",
-		"userId": "azerty@gmail.com",
-		"properties": {
-			"url": "exemple.com/guide-rh",
-			"firstname": "azert",
-			"lastname": "azertyu"
-		}
-	},
-	{
-		"type": "track",
-		"event": "Form Sent",
-		"userId": "guillaume18@colevillecapital.com",
-		"properties": {
-			"url": "exemple.com/benchmark",
-			"company": "Coleville Capital",
-			"company-size": "40",
-			"poste": "Sales"
-		}
-	},
-	{
-		"type": "track",
-		"event": "Form Sent",
-		"userId": "carolinegodard@discolive.site",
-		"properties": {
-			"url": "exemple.com/benchmark",
-			"company": "Discolive",
-			"company-size": "20",
-			"poste": "RH"
-		}
-	},
-	{
-		"type": "track",
-		"event": "Form Sent",
-		"userId": "glebrun@jamtogel.org",
-		"properties": {
-			"url": "exemple.com/benchmark",
-			"company": "Jamtogel",
-			"company-size": "50",
-			"poste": "RH"
-		}
-	},
-	{
-		"type": "track",
-		"event": "Form Sent",
-		"userId": "romainde@spendesk.com",
-		"properties": {
-			"url": "exemple.com/benchmark",
-			"company": "Spendesk",
-			"company-size": "400",
-			"poste": "RH"
-		}
-	},
-	{
-		"type": "track",
-		"event": "Form Sent",
-		"userId": "thomas@devoteam.com",
-		"properties": {
-			"url": "exemple.com/benchmark",
-			"company": "Devoteam",
-			"company-size": "5500",
-			"poste": "Consultant"
-		}
-	},
-	{
-		"type": "track",
-		"event": "Form Sent",
-		"userId": "thomas@devoteam.com",
-		"properties": {
-			"url": "exemple.com/benchmark",
-			"company": "Devoteam",
-			"company-size": "5500",
-			"poste": "Consultant"
-		}
-	},
-	{
-		"type": "track",
-		"event": "Form Sent",
-		"userId": "thomas@devoteam.com",
-		"properties": {
-			"url": "exemple.com/benchmark",
-			"company": "Devoteam",
-			"company-size": "5500",
-			"poste": "Consultant"
-		}
-	},
-	{
-		"type": "track",
-		"event": "Form Sent",
-		"userId": "alexandre@edgeover.io",
-		"properties": {
-			"url": "exemple.com/benchmark",
-			"company": "Edgeover",
-			"company-size": "3",
-			"poste": "Rh"
-		}
-	},
-	{
-		"type": "track",
-		"event": "PageView",
-		"userId": "alexandre@edgeover.io",
-		"properties": {
-			"url": "exemple.com/pricing"
-		}
-	},
-	{
-		"type": "track",
-		"event": "PageView",
-		"userId": "carolinegodard@discolive.site",
-		"properties": {
-			"url": "exemple.com/pricing"
-		}
-	},
-	{
-		"type": "track",
-		"event": "PageView",
-		"userId": "denis57@colevillecapital.com",
-		"properties": {
-			"url": "exemple.com/pricing"
-		}
-	},
-	{
-		"type": "track",
-		"event": "PageView",
-		"userId": "glebrun@jamtogel.org",
-		"properties": {
-			"url": "exemple.com/pricing"
-		}
-	},
-	{
-		"type": "track",
-		"event": "PageView",
-		"userId": "glebrun@jamtogel.org",
-		"properties": {
-			"url": "exemple.com/pricing"
-		}
-	},
-	{
-		"type": "track",
-		"event": "PageView",
-		"userId": "michel@pasdidee.fr",
-		"properties": {
-			"url": "exemple.com/pricing"
-		}
-	},
-	{
-		"type": "track",
-		"event": "PageView",
-		"userId": "ella@destrippes.fr",
-		"properties": {
-			"url": "exemple.com/pricing"
-		}
-	},
-	{
-		"type": "track",
-		"event": "PageView",
-		"userId": "roselyne@eclatax.com",
-		"properties": {
-			"url": "exemple.com/pricing"
-		}
-	},
-	{
-		"type": "track",
-		"event": "PageView",
-		"userId": "gilbert@montagne.org",
-		"properties": {
-			"url": "exemple.com/pricing"
-		}
-	},
-	{
-		"type": "track",
-		"event": "PageView",
-		"userId": "frederich.chopin@piano.com",
-		"properties": {
-			"url": "exemple.com/pricing"
-		}
-	},
-	{
-		"type": "track",
-		"event": "PageView",
-		"userId": "jose@beton.org",
-		"properties": {
-			"url": "exemple.com/pricing"
-		}
-	},
-	{
-		"type": "track",
-		"event": "Email Answered",
-		"userId": "arthur@eiffage.com"
-	},
-	{
-		"type": "track",
-		"event": "Email Answered",
-		"userId": "arthur@eiffage.com"
-	},
-	{
-		"type": "track",
-		"event": "Email Answered",
-		"userId": "carolinegodard@discolive.site"
-	}
+[
+  {
+    "type": "track",
+    "event": "Form Sent",
+    "userId": "carolinegodard@discolive.site",
+    "properties": {
+      "url": "exemple.com/guide-rh",
+      "firstname": "Caroline",
+      "lastname": "Godard"
+    }
+  },
+  {
+    "type": "track",
+    "event": "Form Sent",
+    "userId": "glebrun@jamtogel.org",
+    "properties": {
+      "url": "exemple.com/guide-rh",
+      "firstname": "Giles",
+      "lastname": "Lebrun"
+    }
+  },
+  {
+    "type": "track",
+    "event": "Form Sent",
+    "userId": "carolinegodard@discolive.site",
+    "properties": {
+      "url": "exemple.com/guide-rh",
+      "firstname": "Caroline",
+      "lastname": "Godard"
+    }
+  },
+  {
+    "type": "track",
+    "event": "Form Sent",
+    "userId": "isabelle83@colevillecapital.com",
+    "properties": {
+      "url": "exemple.com/guide-rh",
+      "firstname": "Isabelle",
+      "lastname": "Gregoire"
+    }
+  },
+  {
+    "type": "track",
+    "event": "Form Sent",
+    "userId": "denis57@colevillecapital.com",
+    "properties": {
+      "url": "exemple.com/guide-rh",
+      "firstname": "Denis",
+      "lastname": "Maréchal"
+    }
+  },
+  {
+    "type": "track",
+    "event": "Form Sent",
+    "userId": "guillaume18@colevillecapital.com",
+    "properties": {
+      "url": "exemple.com/guide-rh",
+      "firstname": "Guillaume",
+      "lastname": "Dang"
+    }
+  },
+  {
+    "type": "track",
+    "event": "Form Sent",
+    "userId": "d.marechal@revolut.com",
+    "properties": {
+      "url": "exemple.com/guide-rh",
+      "firstname": "Denis",
+      "lastname": "Maréchal"
+    }
+  },
+  {
+    "type": "track",
+    "event": "Form Sent",
+    "userId": "romain@spendesk.com",
+    "properties": {
+      "url": "exemple.com/guide-rh",
+      "firstname": "Romain",
+      "lastname": "Debrogli"
+    }
+  },
+  {
+    "type": "track",
+    "event": "Form Sent",
+    "userId": "thomas@devoteam.com",
+    "properties": {
+      "url": "exemple.com/guide-rh",
+      "firstname": "Thomas",
+      "lastname": "Trouel"
+    }
+  },
+  {
+    "type": "track",
+    "event": "Form Sent",
+    "userId": "m.aubry@revolugo.com",
+    "properties": {
+      "url": "exemple.com/guide-rh",
+      "firstname": "Martine",
+      "lastname": "Aubry"
+    }
+  },
+  {
+    "type": "track",
+    "event": "Form Sent",
+    "userId": "titouan@gmail.com",
+    "properties": {
+      "url": "exemple.com/demo",
+      "firstname": "Titouan",
+      "lastname": "Machin",
+      "phone": "+33606050424"
+    }
+  },
+  {
+    "type": "track",
+    "event": "Form Sent",
+    "userId": "arthur@qonto.fr",
+    "properties": {
+      "url": "exemple.com/demo",
+      "firstname": "Arthur",
+      "lastname": "Mcdonald",
+      "phone": "+33606784424"
+    }
+  },
+  {
+    "type": "track",
+    "event": "Form Sent",
+    "userId": "guillaume@freelancerespublika.fr",
+    "properties": {
+      "url": "exemple.com/demo",
+      "firstname": "Guillaume",
+      "lastname": "Lapaire",
+      "phone": "+33750050424"
+    }
+  },
+  {
+    "type": "track",
+    "event": "Form Sent",
+    "userId": "azerty@gmail.com",
+    "properties": {
+      "url": "exemple.com/guide-rh",
+      "firstname": "azert",
+      "lastname": "azertyu"
+    }
+  },
+  {
+    "type": "track",
+    "event": "Form Sent",
+    "userId": "guillaume18@colevillecapital.com",
+    "properties": {
+      "url": "exemple.com/benchmark",
+      "company": "Coleville Capital",
+      "company-size": "40",
+      "poste": "Sales"
+    }
+  },
+  {
+    "type": "track",
+    "event": "Form Sent",
+    "userId": "carolinegodard@discolive.site",
+    "properties": {
+      "url": "exemple.com/benchmark",
+      "company": "Discolive",
+      "company-size": "20",
+      "poste": "RH"
+    }
+  },
+  {
+    "type": "track",
+    "event": "Form Sent",
+    "userId": "glebrun@jamtogel.org",
+    "properties": {
+      "url": "exemple.com/benchmark",
+      "company": "Jamtogel",
+      "company-size": "50",
+      "poste": "RH"
+    }
+  },
+  {
+    "type": "track",
+    "event": "Form Sent",
+    "userId": "romainde@spendesk.com",
+    "properties": {
+      "url": "exemple.com/benchmark",
+      "company": "Spendesk",
+      "company-size": "400",
+      "poste": "RH"
+    }
+  },
+  {
+    "type": "track",
+    "event": "Form Sent",
+    "userId": "thomas@devoteam.com",
+    "properties": {
+      "url": "exemple.com/benchmark",
+      "company": "Devoteam",
+      "company-size": "5500",
+      "poste": "Consultant"
+    }
+  },
+  {
+    "type": "track",
+    "event": "Form Sent",
+    "userId": "thomas@devoteam.com",
+    "properties": {
+      "url": "exemple.com/benchmark",
+      "company": "Devoteam",
+      "company-size": "5500",
+      "poste": "Consultant"
+    }
+  },
+  {
+    "type": "track",
+    "event": "Form Sent",
+    "userId": "thomas@devoteam.com",
+    "properties": {
+      "url": "exemple.com/benchmark",
+      "company": "Devoteam",
+      "company-size": "5500",
+      "poste": "Consultant"
+    }
+  },
+  {
+    "type": "track",
+    "event": "Form Sent",
+    "userId": "alexandre@edgeover.io",
+    "properties": {
+      "url": "exemple.com/benchmark",
+      "company": "Edgeover",
+      "company-size": "3",
+      "poste": "Rh"
+    }
+  },
+  {
+    "type": "track",
+    "event": "PageView",
+    "userId": "alexandre@edgeover.io",
+    "properties": {
+      "url": "exemple.com/pricing"
+    }
+  },
+  {
+    "type": "track",
+    "event": "PageView",
+    "userId": "carolinegodard@discolive.site",
+    "properties": {
+      "url": "exemple.com/pricing"
+    }
+  },
+  {
+    "type": "track",
+    "event": "PageView",
+    "userId": "denis57@colevillecapital.com",
+    "properties": {
+      "url": "exemple.com/pricing"
+    }
+  },
+  {
+    "type": "track",
+    "event": "PageView",
+    "userId": "glebrun@jamtogel.org",
+    "properties": {
+      "url": "exemple.com/pricing"
+    }
+  },
+  {
+    "type": "track",
+    "event": "PageView",
+    "userId": "glebrun@jamtogel.org",
+    "properties": {
+      "url": "exemple.com/pricing"
+    }
+  },
+  {
+    "type": "track",
+    "event": "PageView",
+    "userId": "michel@pasdidee.fr",
+    "properties": {
+      "url": "exemple.com/pricing"
+    }
+  },
+  {
+    "type": "track",
+    "event": "PageView",
+    "userId": "ella@destrippes.fr",
+    "properties": {
+      "url": "exemple.com/pricing"
+    }
+  },
+  {
+    "type": "track",
+    "event": "PageView",
+    "userId": "roselyne@eclatax.com",
+    "properties": {
+      "url": "exemple.com/pricing"
+    }
+  },
+  {
+    "type": "track",
+    "event": "PageView",
+    "userId": "gilbert@montagne.org",
+    "properties": {
+      "url": "exemple.com/pricing"
+    }
+  },
+  {
+    "type": "track",
+    "event": "PageView",
+    "userId": "frederich.chopin@piano.com",
+    "properties": {
+      "url": "exemple.com/pricing"
+    }
+  },
+  {
+    "type": "track",
+    "event": "PageView",
+    "userId": "jose@beton.org",
+    "properties": {
+      "url": "exemple.com/pricing"
+    }
+  },
+  {
+    "type": "track",
+    "event": "Email Answered",
+    "userId": "arthur@eiffage.com"
+  },
+  {
+    "type": "track",
+    "event": "Email Answered",
+    "userId": "arthur@eiffage.com"
+  },
+  {
+    "type": "track",
+    "event": "Email Answered",
+    "userId": "carolinegodard@discolive.site"
+  }
 ]
